@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/pownjs/pown-runtime#readme",
   "dependencies": {
-    "babel-runtime": "^6.23.0"
+    "babel-register": "^6.24.0",
+    "babel-runtime": "^6.23.0",
+    "coffee-script": "^1.12.4"
   }
 }
